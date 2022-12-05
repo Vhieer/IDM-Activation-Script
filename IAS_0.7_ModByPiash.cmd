@@ -181,11 +181,11 @@ set _status=Status_Unclear
 set _col=%_Yellow%
 )
 
-call :_color2 %_White% "        " %_Green% "  Create By Piash"
+call :_color2 %_White% "        " %_Green% "  Create By Vhieer"
 echo:          _____________________________________________   
 echo: 
-echo:          Telegram: @ModByPiash
-echo:          Github: https://github.com/lstprjct
+echo:          Telegram: Vhieer
+echo:          Github: https://github.com/Vhieer/
 echo:          _____________________________________________   
 echo:                                                          
 echo:          [1] Activate IDM                                
